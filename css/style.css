@@ -2,7 +2,7 @@
 
 @font-face {
 	font-family: 'Yanone Kaffeesatz';
-	src: url('../fonts/YanoneKaffeesatz-Regular.woff2') format('woff2'), url('../fonts/YanoneKaffeesatz-Regular.woff') format('woff');
+	src: url('/fonts/YanoneKaffeesatz-Regular.woff2') format('woff2'), url('../fonts/YanoneKaffeesatz-Regular.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
 	font-family: 'Gotham Pro';
-	src: url('../fonts/GothamPro.woff2') format('woff2'), url('../fonts/GothamPro.woff') format('woff');
+	src: url('/fonts/GothamPro.woff2') format('woff2'), url('../fonts/GothamPro.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
